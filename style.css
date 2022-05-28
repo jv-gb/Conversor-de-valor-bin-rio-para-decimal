@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body {
+  background-color: #8A7090;
+  position: fixed;
+}
+
+.container {
+  padding: 30px;
+  border-radius: 30px;
+  text-align: center;
+  background-color: #94BFBE;
+  font-family: "Open Sans";
+  font-weight: 900;
+  display: inline-block;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+input {
+  width: 5rem;
+}
